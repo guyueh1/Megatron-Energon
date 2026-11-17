@@ -79,6 +79,7 @@ maxdepth: 2
 ---
 internals/contrib_guidelines
 internals/code_structure
+internals/epath_storage
 internals/startup-review-07-index-reader-reuse
 ```
 
