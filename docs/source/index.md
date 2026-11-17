@@ -79,6 +79,7 @@ maxdepth: 2
 ---
 internals/contrib_guidelines
 internals/code_structure
+internals/startup-review-07-index-reader-reuse
 ```
 
 # Indices and tables
